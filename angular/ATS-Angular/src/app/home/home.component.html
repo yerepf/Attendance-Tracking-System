@@ -1,0 +1,7 @@
+<p>home works! Hello {{ authService.username }}</p>
+<button (click)="ToogleDashboardVisibility()">Dashboard</button>
+
+<span *ngIf="DashboardVisible">
+    <router-outlet></router-outlet>
+</span>
+
