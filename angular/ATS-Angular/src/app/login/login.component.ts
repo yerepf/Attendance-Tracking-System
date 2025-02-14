@@ -25,7 +25,7 @@ export class LoginComponent {
 
   logearse() {
     if (this.authService.login(this.authService.username, this.authService.password)) {
-      this.router.navigate(['/home']);
+      this.router.navigate(['/dashboard']);
     }
   }
 

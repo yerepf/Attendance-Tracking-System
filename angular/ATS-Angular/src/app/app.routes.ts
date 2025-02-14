@@ -2,23 +2,25 @@ import { RouterModule, Routes } from '@angular/router';
 import { NgModule } from '@angular/core';
 import { LoginComponent } from './login/login.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
-import { HomeComponent } from './home/home.component';
+import { MainlayoutComponent } from './mainlayout/mainlayout.component';
+import { NavbarComponent } from './navbar/navbar.component';
 import { Router } from 'express';
 import exp from 'constants';
+import path from 'path';
 
 export const routes: Routes = [
     {
-        path: '', 
+        path: '', redirectTo: 'login', pathMatch: 'full'
+    },
+    {
+        path: 'login', 
         component: LoginComponent
     },
     {
-        path: 'home', 
-        component: HomeComponent, 
+        path: 'dashboard', 
+        component: MainlayoutComponent,
         children: [
-            {
-                path: 'dashboard', 
-                component: DashboardComponent
-            }
+            { path: '', component: DashboardComponent }
         ]
     }
 ];
