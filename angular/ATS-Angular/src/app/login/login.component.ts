@@ -8,7 +8,7 @@ import { AuthServiceService } from '../services/auth-service.service';
 
 
 @Component({
-  selector: 'login',
+  selector: 'app-login',
   standalone: true,
   imports: [CommonModule, FormsModule, RouterModule],
   templateUrl: './login.component.html',
