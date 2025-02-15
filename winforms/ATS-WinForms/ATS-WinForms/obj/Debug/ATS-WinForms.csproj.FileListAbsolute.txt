@@ -1,0 +1,12 @@
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.AssemblyReference.cache
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS_WinForms.LOGIN.resources
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.GenerateResource.cache
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.exe.config
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.exe
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.pdb
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\Guna.UI2.dll
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS_WinForms.Properties.Resources.resources
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinF.FCF0834E.Up2Date
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.exe
+C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.pdb
