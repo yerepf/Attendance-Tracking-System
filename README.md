@@ -1,4 +1,8 @@
-ATS is a Attendance tracking system that is developing in a GitHub Monorepo.
-- Frontend: Angular 17 (Process Modules)
-- Frontend: Winforms (Input and Outputs Modules)
-- Backend: ASP.NET, Database PostgreSQL
+ATS - Attendance Tracking System
+ATS is an attendance tracking system developed in a GitHub monorepo.
+
+Technologies
+Frontend (Process Modules): Angular 17
+Frontend (Input and Output Modules): WinForms
+Backend: ASP.NET
+Database: MySQL
