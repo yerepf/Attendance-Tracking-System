@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { LoginComponent } from './login/login.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { MainlayoutComponent } from './mainlayout/mainlayout.component';
+import { AttendanceComponent } from './attendance/attendance.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { Router } from 'express';
 import exp from 'constants';
@@ -21,6 +22,13 @@ export const routes: Routes = [
         component: MainlayoutComponent,
         children: [
             { path: '', component: DashboardComponent }
+        ]
+    },
+    {
+        path: 'attendance', 
+        component: MainlayoutComponent,
+        children: [
+            { path: '', component: AttendanceComponent }
         ]
     }
 ];
