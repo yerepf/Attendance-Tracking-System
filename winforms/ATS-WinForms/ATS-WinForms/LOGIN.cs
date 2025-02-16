@@ -64,5 +64,12 @@ namespace ATS_WinForms
                 e.SuppressKeyPress = true;
             }
         }
+
+        private void BT_ENTRAR_Click(object sender, EventArgs e)
+        {
+            Menu menu = new Menu();
+            menu.Show();
+            this.Hide();
+        }
     }
 }

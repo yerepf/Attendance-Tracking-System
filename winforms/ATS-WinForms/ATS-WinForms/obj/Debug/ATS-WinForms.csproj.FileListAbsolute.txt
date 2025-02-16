@@ -10,3 +10,16 @@ C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinFo
 C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinF.FCF0834E.Up2Date
 C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.exe
 C:\Users\elvin\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.pdb
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.exe.config
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.exe
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.pdb
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS_WinForms.LOGIN.resources
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS_WinForms.Menu.resources
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS_WinForms.Properties.Resources.resources
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.GenerateResource.cache
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinF.FCF0834E.Up2Date
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.exe
+C:\Users\User\source\repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.pdb

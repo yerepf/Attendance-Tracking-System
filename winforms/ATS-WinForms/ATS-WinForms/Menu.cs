@@ -16,5 +16,10 @@ namespace ATS_WinForms
         {
             InitializeComponent();
         }
+
+        private void Menu_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

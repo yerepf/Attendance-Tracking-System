@@ -59,6 +59,7 @@
             this.BT_ENTRAR.Size = new System.Drawing.Size(113, 36);
             this.BT_ENTRAR.TabIndex = 1;
             this.BT_ENTRAR.Text = "Entrar";
+            this.BT_ENTRAR.Click += new System.EventHandler(this.BT_ENTRAR_Click);
             // 
             // panel2
             // 
