@@ -27,5 +27,15 @@ namespace ATS_WinForms
             LB_HORARIO.Text = DateTime.Now.ToString("hh:mm:ss");
             LB_FECHA.Text = DateTime.Now.ToString("dd/MM/yyyy");
         }
+
+        private void btnReportes_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

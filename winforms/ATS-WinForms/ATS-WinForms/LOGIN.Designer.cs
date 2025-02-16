@@ -46,16 +46,18 @@
             // BT_ENTRAR
             // 
             this.BT_ENTRAR.Animated = true;
+            this.BT_ENTRAR.BackColor = System.Drawing.Color.Transparent;
             this.BT_ENTRAR.BorderRadius = 8;
             this.BT_ENTRAR.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.BT_ENTRAR.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.BT_ENTRAR.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.BT_ENTRAR.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.BT_ENTRAR.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(1)))), ((int)(((byte)(28)))));
-            this.BT_ENTRAR.Font = new System.Drawing.Font("Roboto Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BT_ENTRAR.Font = new System.Drawing.Font("Roboto Black", 20.25F, System.Drawing.FontStyle.Bold);
             this.BT_ENTRAR.ForeColor = System.Drawing.Color.White;
             this.BT_ENTRAR.Location = new System.Drawing.Point(370, 288);
             this.BT_ENTRAR.Name = "BT_ENTRAR";
+            this.BT_ENTRAR.PressedColor = System.Drawing.Color.Silver;
             this.BT_ENTRAR.Size = new System.Drawing.Size(113, 36);
             this.BT_ENTRAR.TabIndex = 1;
             this.BT_ENTRAR.Text = "Entrar";
