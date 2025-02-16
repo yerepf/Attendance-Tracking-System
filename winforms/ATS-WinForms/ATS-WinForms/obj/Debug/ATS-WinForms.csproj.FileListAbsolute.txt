@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.exe.config
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.exe
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\bin\Debug\ATS-WinForms.pdb
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS_WinForms.Form1.resources
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS_WinForms.Properties.Resources.resources
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.exe
+C:\Users\User\Source\Repos\yerepf\Attendance-Tracking-System\winforms\ATS-WinForms\ATS-WinForms\obj\Debug\ATS-WinForms.pdb
