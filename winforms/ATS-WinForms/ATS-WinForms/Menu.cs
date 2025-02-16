@@ -21,5 +21,11 @@ namespace ATS_WinForms
         {
             Application.Exit();
         }
+
+        private void Tiempo_Tick(object sender, EventArgs e)
+        {
+            LB_HORARIO.Text = DateTime.Now.ToString("hh:mm:ss");
+            LB_FECHA.Text = DateTime.Now.ToString("dd/MM/yyyy");
+        }
     }
 }
